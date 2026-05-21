@@ -1,0 +1,6 @@
+/Python
+   /game_guess
+      main.py          ← entry point, login, menu utama
+      game.py          ← logika permainan tiap level
+      scoreboard.py    ← baca/tulis JSON, tampilkan top 5
+      scores.json      ← file data skor (auto-dibuat)

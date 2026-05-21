@@ -1,0 +1,8 @@
+/Python
+   /konversi
+      main.py           ← entry point
+      converter.py      ← logika konversi CSV → JSON
+/C
+   data_mahasiswa.csv   ← output dari program C Soal 1
+/docs
+README.md

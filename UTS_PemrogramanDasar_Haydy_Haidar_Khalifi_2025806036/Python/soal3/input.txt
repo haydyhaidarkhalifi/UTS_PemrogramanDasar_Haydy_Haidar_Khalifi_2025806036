@@ -1,0 +1,4 @@
+Python adalah bahasa pemrograman yang mudah dipelajari.
+Program python sangat fleksibel dan banyak digunakan.
+Belajar python belajar pemrograman dasar sangat penting.
+Python dipakai untuk web, data science, dan otomasi.

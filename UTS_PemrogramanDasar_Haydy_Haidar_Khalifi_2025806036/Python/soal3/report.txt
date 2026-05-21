@@ -1,0 +1,17 @@
+=============================================
+       LAPORAN ANALISIS TEKS
+=============================================
+  Jumlah Baris  : 4
+  Jumlah Kata   : 29
+  Huruf Vokal   : 69
+  Huruf Konsonan: 116
+
+  [ 5 KATA PALING SERING MUNCUL ]
+
+  python          ########  (4)
+  pemrograman     ####  (2)
+  sangat          ####  (2)
+  dan             ####  (2)
+  belajar         ####  (2)
+
+=============================================

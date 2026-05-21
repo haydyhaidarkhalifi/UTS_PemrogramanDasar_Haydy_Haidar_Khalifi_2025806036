@@ -1,0 +1,7 @@
+/Python
+   /analyzer
+      main.py        ← entry point, argparse
+      analyzer.py    ← logika analisis teks
+      utils.py       ← fungsi bantu & grafik ASCII
+      input.txt      ← file teks yang dianalisis
+      report.txt     ← hasil laporan (auto-dibuat)
