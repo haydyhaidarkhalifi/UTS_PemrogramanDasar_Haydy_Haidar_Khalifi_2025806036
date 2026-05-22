@@ -14,12 +14,4 @@ Proyek ini adalah Ujian Tengah Semester (UTS) Pemrograman Dasar, yang menggabung
 Mahasiswa diminta membuat beberapa proyek terpisah dengan fitur logika, struktur data, file handling, dan modular programming.
 
 ---
-C/
- ├── soal1_data_mahasiswa/
- └── soal4_csv_json/
- Python/
- ├── soal2_game_guess/
- ├── soal3_text_analyzer/
- └── soal4_csv_to_json/
- docs/
- ---
+
